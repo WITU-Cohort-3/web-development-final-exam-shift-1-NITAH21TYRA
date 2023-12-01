@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(173, 212, 15);
+    text-align: justify;
+    font-size: 20px;
+    background-image: url(./bt.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+background-color: #3498db;
+color: rgb(248, 246, 246);
+padding: 10px 20px;
+border: none;
+cursor: pointer;
+}
+h1{
+max-width: 600px;
+margin: 0 auto;
+text-align: center;
+padding: 20px;
+background-color: #4a1212;
+border: 1px solid #4f2323;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+p{
+text-align: center;
+background-color: #7d5959;
+color: #fbf9f9;
+padding: 20px;
+}
+a{
+padding: 20px;
+background-color: #bde10b;
+color: #4f2323;
+}

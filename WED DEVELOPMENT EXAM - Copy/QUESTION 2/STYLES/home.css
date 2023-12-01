@@ -1,0 +1,25 @@
+body{
+    background-image: url(/IMAGES/wood.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: x-large;
+    align-items: right;
+}
+h1{
+    text-align: right;
+    text-decoration: solid;
+    color: rgb(103, 246, 8);
+    size: 100px;
+    text-decoration-color: rgb(248, 248, 244);
+}
+p{
+ color: rgb(127, 127, 255);
+ text-align: right;
+ size: 40px;
+}
+a{
+    padding: 20px;
+    background-color: rgb(12, 12, 12);
+    color: rgb(236, 243, 241);
+    align-content: right;
+}
