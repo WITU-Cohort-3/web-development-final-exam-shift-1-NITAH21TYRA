@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(237, 237, 81);
+    font-size: large;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    size: 10px;
+    width: 800px;
+    height: 500px;
+    
+}
+a{
+    padding: 20px;
+    background-color: rgb(75, 13, 13);
+    color: rgb(236, 243, 241);
+    align-content: right;}

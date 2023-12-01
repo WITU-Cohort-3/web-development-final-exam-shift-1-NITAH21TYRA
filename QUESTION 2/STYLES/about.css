@@ -1,0 +1,17 @@
+body{
+    background-image: url(/IMAGES/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+    color: rgb(240, 237, 238);
+    size: 100px;
+    text-shadow:bold;
+}
+a{
+    padding: 20px;
+    background-color: rgb(75, 13, 13);
+    color: rgb(236, 243, 241);
+    align-content: right;}
