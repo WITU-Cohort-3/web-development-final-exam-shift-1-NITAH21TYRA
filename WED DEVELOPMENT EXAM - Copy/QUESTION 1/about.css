@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.about-me{
+    display: flex;
+    align-items: center;
+}
+.img{
+    max-width: 80px;
+    
+    
+    
+}
+h1{
+    color: rgb(178, 178, 125);
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    text-align:justify;
+    color: rgb(236, 245, 245);
+    margin-left: 20px;
+}
